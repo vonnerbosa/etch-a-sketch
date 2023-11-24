@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+    height:20px;
+    width: 20px;
+    border: 1px;
+    border-color: aqua;
+}
